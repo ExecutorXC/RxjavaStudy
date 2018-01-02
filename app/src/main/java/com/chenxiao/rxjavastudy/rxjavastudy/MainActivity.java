@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Log.v("chenxiao", "I think it is useful");
+        Log.v("chenxiao", "This will be updated by ssl");
     }
 }
