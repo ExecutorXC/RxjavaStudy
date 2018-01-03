@@ -8,4 +8,12 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <!-- res/values/styles.xml -->
+    <resources>
+        <!-- your theme inherits from the material theme -->
+        <style name="AppTheme2" parent="android:Theme.Material">
+            <!-- theme customizations -->
+        </style>
+    </resources>
+
 </resources>
